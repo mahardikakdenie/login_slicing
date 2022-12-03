@@ -1,4 +1,4 @@
-# flutter_application_1
+# Flutter Slicing Login Design
 
 A new Flutter project.
 
